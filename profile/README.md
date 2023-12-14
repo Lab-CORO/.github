@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salut ! Bienvenue au Lab CoRo 👋
 
 <!--
 
