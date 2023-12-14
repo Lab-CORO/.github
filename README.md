@@ -1,1 +1,1 @@
-# .github
+Salut ! Bienvenue au Lab CoRo
